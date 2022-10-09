@@ -52,7 +52,7 @@ int main(int argc, char *argv[])
 	 deviceProp.maxTexture2D[0], deviceProp.maxTexture2D[1],
 	 deviceProp.maxTexture3D[0], deviceProp.maxTexture3D[1],
 	 deviceProp.maxTexture3D[2]);
-  printf("\u251c\u2500\u2500 Max Layered Texture Size (dim) x layers          "
+  printf("\u251c\u2500\u2500 Max Layered Texture Size (dim) x layers         "
 	 "1D=(%d) x %d, 2D=(%d,%d) x %d\n",
 	 deviceProp.maxTexture1DLayered[0], deviceProp.maxTexture1DLayered[1],
 	 deviceProp.maxTexture2DLayered[0], deviceProp.maxTexture2DLayered[1],
